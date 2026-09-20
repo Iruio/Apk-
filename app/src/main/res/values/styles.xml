@@ -1,0 +1,4 @@
+<resources>
+    <style name="Theme.WebApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    </style>
+</resources>
